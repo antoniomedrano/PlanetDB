@@ -1,5 +1,6 @@
 # PlanetDB
 ## An iOS Planet Database app made with Swift 3.1 
+Based on the Apple [FoodTracker tutorial](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
 #### The homepage
 
