@@ -16,14 +16,14 @@ The name of the object links to that object's detail page.
 
 #### The input form
 
-A simple form for adding a planet to the database. The form should has 4 inputs:
+A simple form for adding a planet to the database. The form has 4 inputs:
 Name, Size (in Earth Masses), Distance (from the sun, In Astronomical Units), Ordinality (Mercury: 1, Neptune: 8)
 and Description.
 
 Name and ordinality uniqueness is enforced. Size, Ordinality and Distance are restricted to numerical input.
 
 #### The detail page
-The detail page should displays all the available information about the planet.
+The detail page displays all the available information about the planet.
 
 For example:
 
